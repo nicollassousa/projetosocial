@@ -15,39 +15,39 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
-main{
+main {
     height: 100vh;
     position: relative;
 }
-section#telefone{
+section#telefone {
     background-image: url(../imagens/frame-iphone.png);
-    height: 627px;
+    height: 630px;
     left: 50%;
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
     width: 311px;
 }
-iframe#tela{
+iframe#tela {
     height: 472px;
     left: 22px;
     position: relative;
     top: 80px;
     width: 267px;
 }
-section#redes-socias{
+section#redes-socias {
     float: right;
     margin-top: 80px 
 }
 
-section#redes-socias img{
+section#redes-socias img {
     border-radius: 50%;
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.705);
     display: flex;
     margin: 0 10px 15px 0;
     width: 50px;
 }
-section#redes-socias img:hover{
+section#redes-socias img:hover {
     border: 1px solid rgba(255, 255, 255, 0.589);
     box-shadow: 4px 4px 8px #000;
     transform: translate(-2px, -2px);
